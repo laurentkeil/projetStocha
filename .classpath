@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8"/>
+	<classpathentry kind="lib" path="C:/Users/laurent/Downloads/lib/jfreechart-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/laurent/Downloads/lib/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/laurent/Downloads/lib/ssj-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/laurent/Downloads/lib/optimization.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
